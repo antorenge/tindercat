@@ -1,7 +1,7 @@
 # Tinder Cat
 
 Tinder app for cats using [http://thecatapi.com/](http://thecatapi.com/).
-This is a React Native app built on [https://expo.io/](expo.io)
+This is a React Native app built on [expo.io](https://expo.io/)
 
 ## Getting started
 
